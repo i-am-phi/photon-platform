@@ -1,5 +1,5 @@
 ---
-title: News
+title: Posts
 subtitle: 'Latest Announcements '
 author: /home
 content:
@@ -7,6 +7,10 @@ content:
 child_type: article
 figure:
     image: 034-data-sharing.svg
+taxonomy:
+    photon:
+        - header
+        - showcase
 show_gallery: false
 ---
 

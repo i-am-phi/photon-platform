@@ -11,7 +11,8 @@ figure:
     alt: 'diagram of a notebook with graph and pencil'
     caption: '# shine your light'
 taxonomy:
-    tag:
+    photon:
+        - header
         - showcase
 ---
 

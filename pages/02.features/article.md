@@ -10,8 +10,9 @@ figure:
     title: Features
     alt: 'diagram of page with gear and pencil'
 taxonomy:
-    tag:
+    photon:
         - showcase
+        - header
 show_gallery: false
 ---
 

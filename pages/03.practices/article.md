@@ -10,7 +10,8 @@ figure:
     title: 'Best Practices'
     alt: 'diagram of man with checkmark'
 taxonomy:
-    tag:
+    photon:
+        - header
         - showcase
 show_gallery: false
 ---

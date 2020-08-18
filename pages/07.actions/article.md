@@ -11,8 +11,9 @@ figure:
   title: null
   caption: null
 taxonomy:
-  tag: null
-  category: null
+    photon:
+        - header
+        - showcase
 ---
 
 - use categories

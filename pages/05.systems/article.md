@@ -10,8 +10,8 @@ figure:
     title: 'Systems are made of systems'
     alt: 'diagram of gears and pullies'
 taxonomy:
-    tag:
-        - showcase
+    photon:
+        - header
 show_gallery: false
 ---
 
