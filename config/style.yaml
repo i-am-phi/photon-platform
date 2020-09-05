@@ -1,19 +1,19 @@
 color:
   key:
-    hue: 44
+    hue: 100
   1:
     hueOffset: 120
   2:
     hueOffset: -150
   saturation: 33
   lightness:
-    lighter: 90
-    light: 75
+    lighter: 75
+    light: 66
     mid: 44
     dark: 33
     darker: 19
   foreground: '#333'
-  background: '#EFEFEF'
+  background: hsla(255, 100%, 100%, .5)
 font: Lato
 font_display: Montserrat
 font_code: monospace
