@@ -1,4 +1,4 @@
-title: photon
+title: photon PLATFORM
 default_lang: en
 author:
   name: phi
@@ -8,7 +8,7 @@ taxonomies:
   - tag
   - photon
 metadata:
-  description: 'My Grav Site'
+  description: 'complete platform for developing, publishing, and managing content in the digital world'
 summary:
   enabled: true
   format: short
