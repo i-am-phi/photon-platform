@@ -2,10 +2,8 @@
 
 export PROJECT="photon-platform.net"
 export LOCAL="http://$PROJECT.local"
-export SERVER="https://photon-platform.net"
-export SERVER_DIR="~/photon-platform.net"
-export PROJECT_DIR="/home/phi/SITES/$PROJECT"
+export SERVER="https://$PROJECT"
+export SERVER_DIR="$SITESROOT/$PROJECT"
+export PROJECT_DIR="$SITESROOT/$PROJECT"
 export THEMES_DIR="$PROJECT_DIR/user/themes"
 export PLUGINS_DIR="$PROJECT_DIR/user/plugins"
-export PORT="1111"
-
