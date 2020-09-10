@@ -1,11 +1,9 @@
 ---
 title: Search
 subtitle: 'find anything on this site'
-author: /home
-child_type: article
-figure:
-    image: 038-analytics.svg
-    title: 'Find Anything'
+taxonomy:
+    photon:
+        - header
 ---
 
 Enter your search criteria in the box below:

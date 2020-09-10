@@ -13,7 +13,6 @@ figure:
 taxonomy:
     photon:
         - header
-        - showcase
 ---
 
 - use categories

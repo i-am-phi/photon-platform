@@ -1,16 +1,13 @@
 ---
-title: Welcome
-subtitle: 'photon ✴ Starter Site'
-author: /home
+title: photon PLATFORM
+subtitle: tools for content development, publishing and management
 content:
     items: '@root.children'
-child_type: article
 figure:
-    caption: ''
-    # youtube: 6IAWM3BeO_U
 menu: Home
-show_gallery: true
-featured: false
+taxonomy: 
+    photon: 
+        - showcase
 ---
 
 The photon ✴ PLATFORM is an integrated system of open source components and online services for the development, publishing and management of content.
