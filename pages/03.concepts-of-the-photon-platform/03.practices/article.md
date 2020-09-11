@@ -11,8 +11,6 @@ figure:
     alt: 'diagram of man with checkmark'
 taxonomy:
     photon:
-        - header
-        - showcase
 show_gallery: false
 ---
 

@@ -11,8 +11,6 @@ figure:
     alt: 'diagram of page with gear and pencil'
 taxonomy:
     photon:
-        - showcase
-        - header
 show_gallery: false
 ---
 
