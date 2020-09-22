@@ -3,14 +3,15 @@ title: Features
 subtitle: 'Capabilities of the photon PLATFORM'
 author: /about
 content:
+    title: Features
     items: '@self.children'
-child_type: article
 figure:
     image: 002-examination.svg
     title: Features
     alt: 'diagram of page with gear and pencil'
 taxonomy:
     photon:
+        - featured
 show_gallery: false
 ---
 

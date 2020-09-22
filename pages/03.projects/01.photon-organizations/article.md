@@ -9,6 +9,8 @@ content:
     showMenu: true
     items: '@self.children'
 taxonomy:
+    photon:
+        - featured
 ---
 
 helping organizations with public records requirements
