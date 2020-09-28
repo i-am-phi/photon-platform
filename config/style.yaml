@@ -12,7 +12,7 @@ color:
     mid: 44
     dark: 33
     darker: 19
-  foreground: '#333'
+  foreground: '#222'
   background: hsla(255, 100%, 100%, .5)
 font: Lato
 font_display: Montserrat

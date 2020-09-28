@@ -16,4 +16,5 @@ summary:
   delimiter: '==='
 blog:
   route: /blog
-logo: star.svg
+logo: photon-logo.png
+
