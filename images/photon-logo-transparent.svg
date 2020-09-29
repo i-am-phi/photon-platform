@@ -1,41 +1,27 @@
 <svg
+   xmlns="http://www.w3.org/2000/svg"
    viewBox="0 0 4000 4000"
    width="4000"
    height="4000"
    id="photon">
   <style type="text/css">
-    #bg {
-      fill: #222;
-      stroke: none;
-    }
     #diamonds {
-      fill: #CCC;
+      fill: #FFF;
       stroke: none;
-    }
-    #diamonds > g:nth-child(2n+0) {
-    /* fill: #222;*/
     }
     #d02, #d04, #d06 {
-      fill: #222;
+      fill: none;
       stroke: none;
     }
     #heptadecagon {
-      fill: #222;
+      fill: none;
       stroke: none;
     }
     #lines {
-      stroke: #CCC;
+      stroke: #FFF;
       stroke-width: 1;
-      stroke-miterlimit: 4;
-      stroke-dasharray: none;
     }
   </style>
-  <rect id="bg" 
-     width="4000"
-     height="4000"
-     x="0"
-     y="0"
-     />
   <path id="heptadecagon" 
      d="m 2002.9668,2009.0232 12.3496,-2.3086 10.7189,-6.6369 7.5689,-10.0229 3.4497,-12.1241 -1.1596,-12.513 -5.6015,-11.2493 -9.3427,-8.5174 -11.694,-4.5303 h -12.5969 l -11.6996,4.5324 -9.3319,8.507 -5.6056,11.2576 -1.1596,12.513 3.4496,12.1241 7.5818,10.0398 10.678,6.6116 z"
      />
