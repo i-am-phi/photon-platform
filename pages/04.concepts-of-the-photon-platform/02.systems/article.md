@@ -2,6 +2,7 @@
 title: Systems
 subtitle: 'components of the photon ✴ PLATFORM'
 content:
+    title: components
     items: '@self.children'
 figure:
     image: 020-cogwheels.svg

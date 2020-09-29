@@ -3,6 +3,7 @@ title: Services
 subtitle: 'interfaces to external functionality'
 author: /about
 content:
+    title: Services
     items: '@self.children'
 child_type: article
 figure:
