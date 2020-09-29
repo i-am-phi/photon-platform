@@ -6,5 +6,9 @@ twitter: phi_architect
 linkedin: iamphi
 youtube: UCYzRQS16EBmsbKuyKMFHSFQ
 github: photon-platform
-owa_siteid: 85a952d89d952fb38459f0aca0de1c03
+owa:
+  siteId: 85a952d89d952fb38459f0aca0de1c03
+  trackPageView: true
+  trackCLicks: false
+  trackDomStream: false
 google_search: bYQ6W9XS6CPkwqqn-S3jJUoVhwgwF7U6YHQrWQlkwgE
