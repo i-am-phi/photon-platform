@@ -1,6 +1,6 @@
 accounts/*.yaml
 data/tntsearch
-data/notifications
+data/notifications/*.yaml
 config/security.yaml
 */config/security.yaml
 
