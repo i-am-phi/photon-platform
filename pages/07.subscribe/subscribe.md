@@ -1,17 +1,14 @@
 ---
 title: Subscribe
 subtitle: 'Newsletters & Feeds'
-author: /home
-content:
-    items: '@self.children'
-child_type: article
+redirect: https://list.photon-platform.net/?p=subscribe
 figure:
     image: 030-cloud.svg
     title: 'Connect with photon'
 taxonomy:
-    tag:
+    photon:
         - featured
-show_gallery: false
+        - header
 ---
 
 - Keep in touch with latest developments
