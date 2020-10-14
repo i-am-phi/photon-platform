@@ -5,7 +5,7 @@ content:
     title: Posts
     items: '@self.children'
 figure:
-    image: 034-data-sharing.svg
+    image: 024-messages.svg
 taxonomy:
     photon:
         - header

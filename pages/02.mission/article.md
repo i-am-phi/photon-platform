@@ -4,13 +4,12 @@ subtitle: 'Create tools to faciliate the development, publishing and management 
 date: 09/09/2020
 content:
     title: Goals
-    showCount: true
-    showMenu: true
     items: '@self.children'
+figure:
+    image: 034-data-sharing.svg
 taxonomy:
     photon: 
         - header
-show_gallery: true
 ---
 
 - comprehensive platform

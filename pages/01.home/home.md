@@ -1,10 +1,16 @@
 ---
 title: photon PLATFORM
 subtitle: tools for content development, publishing and management
-content:
-    items: '@root.children'
-figure:
 menu: Home
+figure:
+    image: photon-logo.png
+content:
+    title: 'Top Sections'
+    items: 
+        '@taxonomy.photon': header
+    order:
+        by: default
+        dir: asc
 taxonomy: 
     photon: 
         - showcase

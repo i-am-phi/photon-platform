@@ -1,6 +1,8 @@
 ---
 title: Search
 subtitle: 'find anything on this site'
+figure:
+    image: 038-analytics.svg
 taxonomy:
     photon:
         - header
