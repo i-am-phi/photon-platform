@@ -9,7 +9,6 @@ figure:
 taxonomy:
     photon:
         - header
-        - showcase
 ---
 
 Latest news from the photon PLATFORM
