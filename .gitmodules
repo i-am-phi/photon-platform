@@ -4,8 +4,6 @@
 	path = plugins/photon
 [submodule "plugins/home"]
 	path = plugins/home
-[submodule "plugins/tntsearch"]
-	path = plugins/tntsearch
 [submodule "plugins/highlight"]
 	path = plugins/highlight
 [submodule "blueprints"]
