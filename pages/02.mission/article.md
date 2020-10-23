@@ -10,6 +10,7 @@ figure:
 taxonomy:
     photon: 
         - header
+mermaid: true
 ---
 
 - comprehensive platform
