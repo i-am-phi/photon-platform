@@ -2,11 +2,12 @@ name: photon PLATFORM
 motto: "**TOOLS**\r\n\r\n**TO SHINE YOUR**\r\n\r\n**LIGHT**"
 logo: photon-logo.png
 contact: this is a phi ARCHITECT project
-facebook: phiarchitect
-twitter: phi_architect
-linkedin: phiarchitect
-github: photon-platform
-youtube: UCYzRQS16EBmsbKuyKMFHSFQ
+social:
+  facebook: phiarchitect
+  twitter: phi_architect
+  linkedin: phiarchitect
+  github: photon-platform
+  youtube: UCYzRQS16EBmsbKuyKMFHSFQ
 owa:
   siteId: 85a952d89d952fb38459f0aca0de1c03
   trackPageView: true
