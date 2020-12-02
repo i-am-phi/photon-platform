@@ -16,6 +16,7 @@ taxonomy:
         - showcase
 ---
 
+
 The photon ✴ PLATFORM is an integrated system of open source components and online services for the development, publishing and management of content.
 
 ===
