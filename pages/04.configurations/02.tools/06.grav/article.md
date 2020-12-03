@@ -1,15 +1,12 @@
 ---
 title: Grav
-subtitle: 'Content Management System'
-author: /about
+subtitle: File-based Content Management System
+author: /phi
 content:
     items: '@self.children'
-child_type: article
 figure:
     image: grav-logo-png-transparent.png
-    title: 'Grav CMS'
     alt: 'circular logo with astronaut'
-    caption: 'Open Source CMS [Grav](https://getgrav.org)'
 ---
 
 - Flat File Content Storage

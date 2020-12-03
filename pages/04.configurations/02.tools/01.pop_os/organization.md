@@ -1,17 +1,9 @@
 ---
 title: Pop!_OS
 subtitle: 'Linux Operating System'
-media_order: 'p-logo.png,pop-os-logo.png'
 author: /about
 content:
     items: '@self.children'
-child_type: article
-figure:
-    image: p-logo.png
-    title: 'Pop!_OS logo'
-    alt: 'circular logo with "P!"'
-    caption: 'Pop!_OS is made by [System76](https://system76.com/pop)'
-show_gallery: false
 ---
 
 - File System

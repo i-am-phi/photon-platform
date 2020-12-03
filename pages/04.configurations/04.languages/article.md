@@ -30,22 +30,6 @@ we comply to their behavior
 
 ## language is a set of structured thought
 
-- html
-  - markdown
-  - emmet
-- yaml
-  - blueprints
-- css
-  - scss
-- javascript
-  - json
-- bash
-  - awk
-  - regexp
-- svg
-- bash
-- PHP
-  - TWIG
 
 
 ### abstraction languages
