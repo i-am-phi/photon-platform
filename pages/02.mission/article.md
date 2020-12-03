@@ -13,13 +13,15 @@ taxonomy:
 mermaid: true
 ---
 
-- comprehensive platform
-- full stack - from OS to all the tools necessary
+Provide an integrated suite of tools for the development, publishing and management of complex content
 
 ===
 
-```css
-body {
-  width: 100vh;
-}
-```
+- comprehensive platform
+- full stack - from OS to all the tools necessary
+
+- not trying to be everything for everyone
+- based around my own requirements
+- always seeking to be performant around fundamentals
+- clear set of specs for a fixed set of platforms
+

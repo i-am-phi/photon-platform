@@ -15,6 +15,8 @@ taxonomy:
 
 vision and organization of the PLATFORM and how it solves traditional issues in content development, publishing and management
 
+Curation process - aligning best practices and standards with tools
+
 ===
 
 
