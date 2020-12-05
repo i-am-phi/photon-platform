@@ -15,4 +15,22 @@ taxonomy:
 
 ===
 
+# Change Control
 
+# Operation Capture
+
+# Composable
+interchangeable
+
+# Customizable
+
+# Schema Based
+
+# Actions
+- todos
+-
+# Improvement
+
+# Deletion / Trash
+
+# Educate / Document

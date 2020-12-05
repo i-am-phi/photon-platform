@@ -1,7 +1,7 @@
 ---
-title: "Local Development"
+title: Develop Locally
 subtitle: "Never make changes on a live production server"
-author: /about
+author: /phi
 content:
     items: '@self.children'
 child_type: article

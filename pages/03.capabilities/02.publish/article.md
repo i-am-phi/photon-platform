@@ -37,10 +37,34 @@ There are two types of consumers: people and robots
 
 ## People
 
+- responsive
+- accessibile
+- feeds
+- search
 
 ## Crawlers
 
+- sitemaps
+- semantics
 
 # Templates
 
 repeatable transformations
+
+# Identity
+
+# Style
+
+- Graceful Degradation
+
+# Presence
+
+# Generative
+
+## Books / Compilation
+
+## Indexes / Search
+
+## Taxonomies / Graphs
+
+## Bubbling

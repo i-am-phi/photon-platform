@@ -15,6 +15,8 @@ mermaid: true
 
 Provide an integrated suite of tools for the development, publishing and management of complex content
 
+Extensible Knowledge Base
+
 ===
 
 > I want my ideas to come to fruition as easily as breathing
