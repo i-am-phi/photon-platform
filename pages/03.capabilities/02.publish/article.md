@@ -68,3 +68,12 @@ repeatable transformations
 ## Taxonomies / Graphs
 
 ## Bubbling
+
+# Open Data Structures and Semantics
+- schemas and structures to create semantics in our data
+## JSON-LD
+- Google Recommendation
+-
+## RDFa
+- W3C Recommendation
+## 

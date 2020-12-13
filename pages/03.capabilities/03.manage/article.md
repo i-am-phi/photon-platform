@@ -15,9 +15,17 @@ taxonomy:
 
 ===
 
+# Situational Awareness
+## errors
+## actions
+## capacity
+## performance
+
 # Change Control
 
 # Operation Capture
+## Scripts
+## key Bindings
 
 # Composable
 interchangeable
@@ -27,10 +35,15 @@ interchangeable
 # Schema Based
 
 # Actions
-- todos
--
-# Improvement
+## todos
+
+# Continual Improvement
 
 # Deletion / Trash
 
+# Updates / Upgrades
+
+# Package Managers
 # Educate / Document
+
+# Syntax, Grammar, Lexicon

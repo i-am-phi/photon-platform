@@ -1,5 +1,5 @@
 ---
-title: photon ARTIST
+title: photon PORTFOLIO
 subtitle: tools for developing, publishing and managing a public portfolio
 date: 09/14/2020
 author: /phi

@@ -31,17 +31,6 @@ Extensible Knowledge Base
 - always seeking to be performant around fundamentals
 - clear set of specs for a fixed set of platforms
 
-# Recognitions (Axioms)
-- Everything is Hierarchical
-- Files are the true commodity
-- We operate in contexts
-
-# Capture
-
-# Instruments
-## - Compose
-## - Arrange
-## - Perform
 
 # Curation
 
@@ -49,3 +38,6 @@ Extensible Knowledge Base
 
 # Information
 # Instructions
+
+# Awareness
+

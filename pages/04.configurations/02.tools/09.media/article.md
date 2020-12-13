@@ -23,6 +23,7 @@ content:
   - color
 - audio video editing
 
+
 ### Inkscape
 Vector Graphics Editor
 
@@ -34,3 +35,8 @@ Bitmap Graphics Editor
 
 ### DarkTable
 Image Management
+
+# Thumbnail Generation and Management
+- Darktable
+- EOG
+- SXIV

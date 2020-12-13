@@ -15,7 +15,13 @@ taxonomy:
 
 ===
 
-# Everything is Hierarchical
+# My consciousness has become intermingled with computing
+
+# Change is ever present
+- we live in a frothy sea of change
+
+
+# Everything is hierarchical
 - collections of collections
 - sets of sets
 - iteration and recursion are your friends
@@ -28,3 +34,5 @@ taxonomy:
 # We operate in contexts
 - only certain information and operations can exist in certain contexts
 
+# Clouds are nebulous 
+## Build your house on a rock

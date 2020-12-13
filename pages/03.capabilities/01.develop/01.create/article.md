@@ -16,3 +16,16 @@ taxonomy:
 ===
 
 
+# Nodes
+## Page
+## Article
+
+# Types
+
+# Templates
+
+# Scaffolds
+
+# Spelling
+
+# Grammar

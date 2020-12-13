@@ -11,6 +11,9 @@ taxonomy:
     tag: 
 ---
 
+- Systems that are well organized should be self documenting
+- Simple indexes and graphs
+- Tags
 
 
 ===

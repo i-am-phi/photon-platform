@@ -1,21 +1,9 @@
 ---
 title: phpList
 subtitle: newsletter and email marketing software
-collection:
-  name: Details
-  showCount: true
-  showMenu: true
 content:
+  title: Details
   items: '@self.children'
-child_type: person
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
-taxonomy:
-  tag: null
-  category: null
 data:
   organization:
     '@type': Organization

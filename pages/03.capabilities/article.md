@@ -24,3 +24,13 @@ The photon PLATFORM serves as the following
 - Production Studio
 - Research Aggregator
 - Educator
+
+
+# Instruments
+## - Compose
+## - Arrange
+## - Perform
+
+# This may never be more than one man's workshop
+
+# Production Studio

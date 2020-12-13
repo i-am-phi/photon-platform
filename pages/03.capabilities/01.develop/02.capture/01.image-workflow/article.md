@@ -1,18 +1,10 @@
 ---
 title: Image Workflow
 subtitle: end to end processing
-author: null
+author: /phi
 content:
+  title: Articles
   items: '@self.children'
-child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
-taxonomy:
-  tag: null
-  category: null
 ---
 
 - Four stage process from camera to web

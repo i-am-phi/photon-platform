@@ -1,21 +1,9 @@
 ---
 title: Open Web Analytics
 subtitle: OWA
-collection:
-  name: Details
-  showCount: true
-  showMenu: true
 content:
+  title: Details
   items: '@self.children'
-child_type: person
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
-taxonomy:
-  tag: null
-  category: null
 data:
   organization:
     '@type': Organization
