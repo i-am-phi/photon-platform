@@ -6,7 +6,7 @@ figure:
     title: 'Connect with photon'
 taxonomy:
     photon:
-        - header
+        - footer
 ---
 
 - Keep in touch with latest developments
