@@ -12,9 +12,7 @@ figure:
   caption: null
 taxonomy:
   tag:
-  - null
   category:
-  - null
 ---
 
 - GNU Bash Standard

@@ -8,9 +8,7 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - 
     tag: 
-        - 
 ---
 
 

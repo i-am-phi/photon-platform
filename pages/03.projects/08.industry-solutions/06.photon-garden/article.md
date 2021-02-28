@@ -10,10 +10,7 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - 
     tag: 
-        - 
-show_gallery: true
 ---
 
 

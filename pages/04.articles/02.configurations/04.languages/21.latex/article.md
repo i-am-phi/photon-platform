@@ -8,10 +8,7 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - 
     tag: 
-        - 
-show_gallery: true
 ---
 
 - still important for understanding math typesetting

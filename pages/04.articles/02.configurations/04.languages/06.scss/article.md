@@ -8,10 +8,7 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - 
     tag: 
-        - 
-show_gallery: true
 ---
 
 Facilitates the structure of css documents which can be tedious and repetitive

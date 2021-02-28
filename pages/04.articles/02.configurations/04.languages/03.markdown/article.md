@@ -8,10 +8,7 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - 
     tag: 
-        - 
-show_gallery: true
 ---
 
 Abstracting the simplest HTML elements that we use for common writing
