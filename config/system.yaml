@@ -54,7 +54,8 @@ pages:
     - rss
     - atom
   expires: 604800
-  last_modified: false
+  cache_control:
+  last_modified: true
   etag: false
   vary_accept_encoding: false
   redirect_default_route: false
