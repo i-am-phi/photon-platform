@@ -1,9 +1,9 @@
 ---
 title: Mission
-subtitle: Create tools to faciliate the development, publishing and management of complex content
+subtitle: build a platform for the development, publishing and management of complex hierarchical content
 date: 09/09/2020
 content:
-    title: Goals
+    title: Premises
     items: '@self.children'
 taxonomy:
     photon: 
@@ -29,8 +29,6 @@ Extensible Knowledge Base
 - always seeking to be performant around fundamentals
 - clear set of specs for a fixed set of platforms
 
-
-# Curation
 
 # Uniformity
 

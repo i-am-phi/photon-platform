@@ -2,8 +2,6 @@
 title: photon PLATFORM
 subtitle: tools for content development, publishing and management
 menu: Home
-figure:
-    image: photon-logo.png
 content:
     title: 'Top Sections'
     items: 
