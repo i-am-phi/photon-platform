@@ -1,6 +1,6 @@
 ---
-title: APT
-subtitle: Advanced Package Tool
+title: apt
+Subtitle: Advanced Package Tool
 date: 12/03/2020
 author: /phi
 content:

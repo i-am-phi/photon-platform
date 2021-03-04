@@ -24,3 +24,5 @@ cat ~/.XCompose
 # TODO: dead keys
 
 https://help.ubuntu.com/community/ComposeKey
+
+<Multi_key> <period> <equal>    	: "•"   enfilledcircbullet # BULLET
