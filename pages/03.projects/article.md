@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Current areas of focus for the photon PLATFORM
+subtitle: Current areas of focus for the **PHOTON platform**
 date: 09/14/2020
 author: /phi
 content:

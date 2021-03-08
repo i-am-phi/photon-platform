@@ -7,11 +7,13 @@ content:
     title: Articles
     items: '@self.children'
 taxonomy:
+    photon:
+        - featured
     category: 
     tag: 
 ---
 
-
+This is the heart of the **PHOTON platform**
 
 ===
 
