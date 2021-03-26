@@ -1,6 +1,6 @@
 ---
 title: Mission
-subtitle: build a platform for the development, publishing and management of complex hierarchical content
+subtitle: develop, publish and manage complex hierarchical content
 date: 09/09/2020
 content:
     title: Premises
@@ -11,11 +11,20 @@ taxonomy:
 mermaid: true
 ---
 
-Provide an integrated suite of tools for the development, publishing and management of complex content
+Provide 
+- an integrated suite of open-source tools 
+- for the development, publishing and management 
+- of complex hierarchical content
+- and the instructions that bring it to light
 
-Extensible Knowledge Base
+Extensible Customizable Archive
+Of Information and Instructions
+
+An instrument for creation
 
 ===
+
+# STRUCTURE • LOGIC • STYLE
 
 > I want my ideas to come to fruition as easily as breathing
 

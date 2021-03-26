@@ -1,6 +1,6 @@
 ---
-title: "YouTube"
-subtitle: "GEOMETOR Channel"
+title: YouTube
+subtitle: subscribe to the phi ARCHITECT channel
 content:
     items: '@self.children'
 child_type: article
