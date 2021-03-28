@@ -3,6 +3,7 @@ title: Software Tools and Components
 subtitle: software components and systems
 author: /about
 content:
+    title: componenents
     items: '@self.children'
 taxonomy:
     tag:

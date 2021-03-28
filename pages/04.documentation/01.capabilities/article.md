@@ -1,7 +1,6 @@
 ---
 title: Capabilities 
 subtitle: develop • publish • manage
-author: /about
 content:
     title: Features
     items: '@self.children'

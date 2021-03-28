@@ -1,11 +1,8 @@
 ---
 title: Structure
-subtitle: 'systems for storing and presenting the content'
-author: /home
+subtitle: systems for storing and presenting the content
 content:
     items: '@self.children'
-child_type: article
-show_gallery: true
 ---
 
 Organizing content into discreet Articles

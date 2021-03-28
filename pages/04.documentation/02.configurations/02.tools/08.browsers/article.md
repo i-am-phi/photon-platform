@@ -1,6 +1,6 @@
 ---
 title: Browsers
-subtitle: 'Primary Interface to Content'
+subtitle: Primary Interface to Content
 author: /about
 content:
     items: '@self.children'

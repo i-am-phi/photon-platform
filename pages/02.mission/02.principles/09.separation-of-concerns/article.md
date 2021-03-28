@@ -1,13 +1,11 @@
 ---
-title: 'Separate Technical Concerns'
-subtitle: 'structure • style • logic'
-author: /about
+title: Separate Technical Concerns
+subtitle: structure • style • logic
 content:
+    title: Articles
     items: '@self.children'
-child_type: article
-show_gallery: false
 ---
 
-a data model is rendered through a composible set of structure, style and logic
+a data model is rendered through a composable set of structure, style and logic
 
 ===

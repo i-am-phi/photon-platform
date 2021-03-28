@@ -1,8 +1,7 @@
 ---
 title: Axioms
-subtitle: Recognizing the Truth at hand
+subtitle: Recognizing the truth at hand
 date: 12/04/2020
-author: /phi
 content:
     title: Axioms
     items: '@self.children'

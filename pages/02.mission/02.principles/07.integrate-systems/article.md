@@ -1,11 +1,9 @@
 ---
-title: 'Integrate Systems'
-subtitle: 'Systems are made of Systems'
-author: /about
+title: Integrate Systems
+subtitle: Systems are made of Systems
 content:
+    title: Articles
     items: '@self.children'
-child_type: article
-show_gallery: false
 ---
 
 - clear configurations

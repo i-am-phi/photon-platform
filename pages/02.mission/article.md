@@ -3,29 +3,34 @@ title: Mission
 subtitle: develop, publish and manage complex hierarchical content
 date: 09/09/2020
 content:
-    title: Premises
+    title: Goals
     items: '@self.children'
 taxonomy:
     photon: 
         - header
-mermaid: true
 ---
 
 Provide 
 - an integrated suite of open-source tools 
 - for the development, publishing and management 
 - of complex hierarchical content
+- establish the architecture of the archive
+- structure • logic • style
 - and the instructions that bring it to light
+
+- platform
+- system architecture
+-
+===
+
+## Statement
+An instrument for creation
 
 Extensible Customizable Archive
 Of Information and Instructions
 
-An instrument for creation
 
-===
-
-# STRUCTURE • LOGIC • STYLE
-
+## Motivations
 > I want my ideas to come to fruition as easily as breathing
 
 - comprehensive platform
@@ -39,10 +44,12 @@ An instrument for creation
 - clear set of specs for a fixed set of platforms
 
 
-# Uniformity
+### Uniformity
 
-# Information
-# Instructions
+### Information
+### Instructions
 
-# Awareness
+### Awareness
 
+
+## Motions

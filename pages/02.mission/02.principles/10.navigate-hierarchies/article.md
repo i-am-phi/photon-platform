@@ -1,11 +1,8 @@
 ---
-title: 'Navigate Hierarchies'
-subtitle: 'All systems are composed of hierarchical systems - learn to move in this realm '
-author: /about
+title: Navigate Hierarchies
+subtitle: All systems are composed of hierarchical systems - learn to move in this realm 
 content:
     items: '@self.children'
-child_type: article
-show_gallery: false
 ---
 
 - understanding the nature of tree-like hierarchical ordering systems is critical to system design

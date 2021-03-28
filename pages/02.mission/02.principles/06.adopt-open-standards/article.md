@@ -1,11 +1,9 @@
 ---
-title: 'Adopt Open Standards'
-subtitle: 'No proprietary Apps, Languages or Content Formats'
-author: /about
+title: Adopt Open Standards
+subtitle: No proprietary Apps, Languages or Content Formats
 content:
+    title: Articles
     items: '@self.children'
-child_type: article
-show_gallery: false
 ---
 
 -

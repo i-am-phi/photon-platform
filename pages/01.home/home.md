@@ -30,7 +30,7 @@ If you are a sophisticated content creator and want to own the entire set of com
 - following best practices
 - achieving mastery in all the domains
 
-## Who is **photon** for?
+## Who is **PHOTON** for?
 
 The requirements of the **PHOTON platform** are focused on large or complex datasets. And especially projects that require custom data types.
 

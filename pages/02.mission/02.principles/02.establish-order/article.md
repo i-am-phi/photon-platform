@@ -1,6 +1,6 @@
 ---
-title: 'Establish Order'
-subtitle: 'The architecture that holds it all together'
+title: Establish Order
+subtitle: The architecture that holds it all together
 content:
     title: Articles
     items: '@self.children'

@@ -1,6 +1,6 @@
 ---
 title: Configurations 
-subtitle: structure • style • logic
+subtitle: structure • logic • style
 date: 09/10/2020
 author: /phi
 content:
